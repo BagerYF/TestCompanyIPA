@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>填写下载地址</string>
+					<string>https://github.com/BagerYF/TestCompanyIPA/raw/master/0a3a26fd996b1032b7481dd5492ff659.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>填写buildID</string>
+				<string>com.faw.capgemini.hr</string>
 				<key>bundle-version</key>
-				<string>填写版本号</string>
+				<string>1.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>填写软件名称</string>
+				<string>HR自助</string>
 			</dict>
 		</dict>
 	</array>
