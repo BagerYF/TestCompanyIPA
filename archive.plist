@@ -1,48 +1,47 @@
-
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-<key>items</key>
-<array>
-    <dict>
+<?xml version="1.0" encoding="UTF-8"?><root version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
         <key>assets</key>
-        <array>
-            <dict>
-                <key>kind</key>
-                <string>software-package</string>
-                <key>url</key>
-                <string>https://github.com/BagerYF/TestCompanyIPA/blob/master/702e76df2de7d3529bd302360f9566a0.ipa</string>
-            </dict>
-            <dict>
-                <key>kind</key>
-                <string>full-size-image</string>
-                <key>needs-shine</key>
-                <false/>
-                <key>url</key>
-                <string>https://1.png</string>
-            </dict>
-            <dict>
-                <key>kind</key>
-                <string>display-image</string>
-                <key>needs-shine</key>
-                <false/>
-                <key>url</key>
-                <string>https://2.png</string>
-            </dict>
-        </array>
         <key>metadata</key>
-        <dict>
-            <key>bundle-identifier</key>
-            <string>com.faw.capgemini.hr</string>
-            <key>bundle-version</key>
-            <string>1.0.5</string>
+        <array>
+          <dict>
             <key>kind</key>
-            <string>software</string>
-            <key>subtitle</key>
-            <string>T</string>
-            <key>title</key>
-            <string>HR自助</string>
+            <key>url</key>
+            <string>software-package</string>
+            <string>https://github.com/BagerYF/TestCompanyIPA/blob/master/702e76df2de7d3529bd302360f9566a0.ipa</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <key>needs-shine</key>
+            <key>url</key>
+            <string>display-image</string>
+            <string>http://www.apicloud.com/icon1/e1/87/e187bc9a689f55b0bb12d0f37bac6aa7.57x57.png</string>
+            <true></true>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <key>needs-shine</key>
+            <key>url</key>
+            <string>full-size-image</string>
+            <string>http://www.apicloud.com/icon1/e1/87/e187bc9a689f55b0bb12d0f37bac6aa7.57x57.png</string>
+            <true></true>
+          </dict>
+        </array>
+        <dict>
+          <key>bundle-identifier</key>
+          <key>bundle-version</key>
+          <key>kind</key>
+          <key>subtitle</key>
+          <key>title</key>
+          <string>com.faw.capgemini.hr</string>
+          <string>1.0.5</string>
+          <string>software</string>
+          <string>HR自助</string>
+          <string>HR自助</string>
         </dict>
-    </dict>
-</array>
+      </dict>
+    </array>
+  </dict>
+</root>
